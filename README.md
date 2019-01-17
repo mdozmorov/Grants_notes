@@ -6,6 +6,8 @@
 
 ## VCU opportunities
 
+- Massey Multi-investigator Award Program - ~January. https://www.massey.vcu.edu/research/funding/multi-investigator-award-program/
+
 - Massey Cancer Center Pilot Project Program - biannual call for applications. ~December and ~June. https://www.massey.vcu.edu/research/funding/pilot-project-program/
 
 - American Cancer Society Institutional Research Grant - biannual call for applications, ~December and ~May. https://www.massey.vcu.edu/research/funding/acs-institutional-research-grants/
