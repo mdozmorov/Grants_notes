@@ -34,6 +34,11 @@ Bioinformatics, biostatistics, computational research, cancer genomics-related f
 | Research starter grants, Pre/postdoctoral fellowships      | Informatics Research | PHRMA Foundation | September 1, February 1 | http://www.phrmafoundation.org/awards/ | Yearly  |
 | Research, Founder's award, Early Career Investigator award | Cancer research      | METAVivor        | August                  | https://metavivor.infoready4.com       | Yearly  |
 
+- NIH Research Training and Career Development Programs, https://researchtraining.nih.gov/
+    - Mentored Research Scientist Development Award (Parent K01 - Independent Clinical Trial Not Allowed), https://grants.nih.gov/grants/guide/pa-files/PA-19-126.html
+
+- Early Career Funding Opportunities, >470 opportunities, https://research.jhu.edu/rdt/funding-opportunities/early-career/. [Source](https://twitter.com/deniswirtz/status/1160190978822512640?s=03)
+
 ## VCU opportunities
 
 - **Massey Multi-investigator Award Program** - \~January. https://www.massey.vcu.edu/research/funding/multi-investigator-award-program/
@@ -48,4 +53,6 @@ Bioinformatics, biostatistics, computational research, cancer genomics-related f
 
 - **Searle Scholars Program.** Please submit abstracts and full CVs no later than 6/28/2019 5:00 PM. Link to Sponsor Announcement:	https://www.searlescholars.net/go.php?id=5. Special Instructions:	VCU may only submit one (1) nomination. Individuals may not apply unless nominated through the VCU limited submission process. Application deadline: September 27, 2019. Additional Submission Instructions:	To submit an application for this limited submission, please either click on the internal Opportunity ID hyperlink above or locate the Opportunity ID in RAMS-SPOT under the internal opportunities tab (http://www.research.vcu.edu/vcuera/index.htm). Document Formatting Instructions:	All application materials should be submitted in PDF format only. Please submit a project abstract (no more than two pages, single-spaced, Arial 11-point font) including the following specific information: 1. A short description of the overall project. 2. The research question(s)/aim(s) of the project. 3. The significance of the project. 4. A short description of the main research/project activities with enough specificity for review. 5. How does your project meet the objectives or goals of the specific funding program? Please submit a full CV for the PI.
 
+## Misc
 
+- Interpreting NIH application number, https://www.niaid.nih.gov/grants-contracts/nih-terminology-know-nine-application-types
