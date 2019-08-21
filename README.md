@@ -2,42 +2,60 @@
 
 Bioinformatics, biostatistics, computational research, cancer genomics-related funding opportunities
 
-## NIH/NSF 
+# Table of content
 
-| Title                                                                                                                                                               | Type     | Agency        | Deadline                | URL                                                                 | Expires |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|---------------|-------------------------|---------------------------------------------------------------------|---------|
-| Faculty Early Career Development Program (CAREER)                                                                                                                   | CAREER   | NSF           | Mid July                | https://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf17537      | Yearly  |
-| Joint DMS/NIGMS Initiative to Support Research at the Interface of the Biological and Mathematical Sciences (DMS/NIGMS)                                             | R01-like | NSF-DMS/NHGRI | September               | https://www.nsf.gov/pubs/2018/nsf18566/nsf18566.htm                 | Yearly  |
-| Genomic Innovator Award (R35 Clinical Trial Optional)                                                                                                               | R35      | NIH/NHGRI     | October 30              | https://grants.nih.gov/grants/guide/rfa-files/RFA-HG-18-006.html    | 2020    |
-| Investigator Initiated Research in Computational Genomics and Data Science (R21 Clinical Trial Not Allowed)                                                         | R21      | NIH           | November 16, July 16    | https://grants.nih.gov/grants/guide/pa-files/PAR-18-843.html        | 2021    |
-| Investigator Initiated Research in Computational Genomics and Data Science (R01 Clinical Trial Not Allowed)                                                         | R01      | NIH           | November 16, July 16    | https://grants.nih.gov/grants/guide/pa-files/PAR-18-844.html        | 2021    |
-| Collaborative Research in Computational Neuroscience (CRCNS) Innovative Approaches to Science and Engineering Research on Brain Function                            | R01-like | NIH/NSF       | November 27             | https://grants.nih.gov/grants/guide/notice-files/NOT-MH-18-054.html | 2020    |
-| Novel Approaches for Relating Genetic Variation to Function and Disease (R01 Clinical Trial Not Allowed)                                                            | R01      | NIH/NHGRI     | Feb 5, June 5, Oct 5    | https://grants.nih.gov/grants/guide/pa-files/pa-18-867.html         | 2021    |
-| New Computational Methods for Understanding the Functional Role of DNA Variants that are Associated with Mental Disorders (R01 (Collab) Clinical Trial Not Allowed) | R01      | NIH/NIMH      | Feb 5, June 5, Oct 5    | https://grants.nih.gov/grants/guide/pa-files/PA-18-907.html         | 2022    |
-| New Computational Methods for Understanding the Functional Role of DNA Variants that are Associated with Mental Disorders (R01 Clinical Trial Not Allowed)          | R01      | NIH/NIMH      | Feb 5, June 5, Oct 5    | https://grants.nih.gov/grants/guide/pa-files/PA-18-908.html         | 2022    |
-| Initiative to Maximize Research Educationin Genomics: Courses                                                                                                       | R25      | NIH/NHGRI     | Jan 25, May 25, Sept 25 | https://grants.nih.gov/grants/guide/pa-files/PAR-19-185.html        | 2022    |
-| Joint DMS/NIGMS Initiative to Support Research at the Interface of the Biological and Mathematical Sciences (DMS/NIGMS)                                             | R01-like | NSF           | No deadline             | https://www.nsf.gov/pubs/2018/nsf18566/nsf18566.htm                 | Yearly  |
-| Joint DMS/NLM Initiative on Generalizable Data Science Methods for Biomedical Research (DMS/NLM)                                                                    | R01-like | NSF           | No deadline             | https://www.nsf.gov/pubs/2019/nsf19500/nsf19500.htm                 | Yearly  |
-| Infrastructure Capacity for Biology (ICB)                                                                                                                           |          | NSF           | No deadline             | https://www.nsf.gov/pubs/2018/nsf18594/nsf18594.htm                 |         |
-| Infrastructure Innovation for Biological Research (IIBR)                                                                                                            |          | NSF           | No deadline             | https://www.nsf.gov/pubs/2018/nsf18595/nsf18595.htm                 |         |
-| Smart and Connected Health(SCH)                                                                                                                                     | R01-like | NSF&NIH       | December 11             | https://www.nsf.gov/pubs/2018/nsf18541/nsf18541.htm                 |         |
-| Research Projects in Cancer Systems Biology (U01 Clinical Trial Optional)                                                                                           | U01      | NCI           | July, Nov               | https://grants.nih.gov/grants/guide/pa-files/par-19-287.html        | 2021    |
+* [NIH and NSF](#nih-and-nsf)
+* [Career development](#career-development)
+* [Foundations](#foundations)
+* [VCU opportunities](#vcu-opportunities)
+* [Misc](#misc)
+
+## NIH and NSF 
+
+- [**Faculty Early Career Development Program (CAREER)**](https://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf17537), **NSF**, **Deadline:** Mid July
+
+- [**Joint DMS/NIGMS Initiative to Support Research at the Interface of the Biological and Mathematical Sciences (DMS/NIGMS)**](https://www.nsf.gov/pubs/2018/nsf18566/nsf18566.htm), **NSF-DMS/NHGRI**, **Deadline:** September
+
+- [**Investigator Initiated Research in Computational Genomics and Data Science (R21 Clinical Trial Not Allowed)**](https://grants.nih.gov/grants/guide/pa-files/PAR-18-843.html), **NIH**, **Deadline:** November 16, July 16
+
+- [**Investigator Initiated Research in Computational Genomics and Data Science (R01 Clinical Trial Not Allowed)**](https://grants.nih.gov/grants/guide/pa-files/PAR-18-844.html), **NIH**,	**Deadline:** November 16, July 16
+
+- [**Collaborative Research in Computational Neuroscience (CRCNS) Innovative Approaches to Science and Engineering Research on Brain Function**](https://grants.nih.gov/grants/guide/notice-files/NOT-MH-18-054.html), **NIH/NSF**, **Deadline:** November 27
+
+- [**Novel Approaches for Relating Genetic Variation to Function and Disease (R01 Clinical Trial Not Allowed)**](https://grants.nih.gov/grants/guide/pa-files/pa-18-867.html) **NIH/NHGRI**, **Deadline:** Feb 5, June 5, Oct 5
+
+- [**New Computational Methods for Understanding the Functional Role of DNA Variants that are Associated with Mental Disorders (R01 (Collab) Clinical Trial Not Allowed)**](https://grants.nih.gov/grants/guide/pa-files/PA-18-907.html) **NIH/NIMH**, **Deadline:** Feb 5, June 5, Oct 5
+
+- [**Initiative to Maximize Research Education in Genomics: Courses**](https://grants.nih.gov/grants/guide/pa-files/PAR-19-185.html), **NIH/NHGRI**, **Deadline:** Jan 25, May 25, Sept 25
+
+- [**Joint DMS/NIGMS Initiative to Support Research at the Interface of the Biological and Mathematical Sciences (DMS/NIGMS)**](https://www.nsf.gov/pubs/2018/nsf18566/nsf18566.htm) **NSF**, **No deadline**
+
+- [**Joint DMS/NLM Initiative on Generalizable Data Science Methods for Biomedical Research (DMS/NLM)**](https://www.nsf.gov/pubs/2019/nsf19500/nsf19500.htm), **NSF**, **No deadline**
+
+- [**Infrastructure Capacity for Biology (ICB)**](https://www.nsf.gov/pubs/2018/nsf18594/nsf18594.htm), **NSF**, **No deadline**	
+
+- [**Infrastructure Innovation for Biological Research (IIBR)**](https://www.nsf.gov/pubs/2018/nsf18595/nsf18595.htm), **NSF**, **No deadline**
+
+- [**Smart and Connected Health(SCH)**](https://www.nsf.gov/pubs/2018/nsf18541/nsf18541.htm), **NSF & NIH**, **Deadline:** December 11	
+
+- [**Research Projects in Cancer Systems Biology (U01 Clinical Trial Optional)**](https://grants.nih.gov/grants/guide/pa-files/par-19-287.html), **NCI**, **Deadline:** July, Nov
 
 ## Career development
 
-- **Funding schemes and travel grant opportunities for postdocs** - https://asntech.github.io/postdoc-funding-schemes/, https://github.com/asntech/postdoc-funding-schemes
+- [**NIH Research Training and Career Development Programs**](https://researchtraining.nih.gov/)
+    - [**Mentored Research Scientist Development Award (Parent K01 - Independent Clinical Trial Not Allowed)**](https://grants.nih.gov/grants/guide/pa-files/PA-19-126.html)
+
+- [**Early Career Funding Opportunities, >470 opportunities**](https://research.jhu.edu/rdt/funding-opportunities/early-career/). [Source](https://twitter.com/deniswirtz/status/1160190978822512640?s=03)
+
+- [**Funding schemes and travel grant opportunities for postdocs**](https://asntech.github.io/postdoc-funding-schemes/), [GitHub](https://github.com/asntech/postdoc-funding-schemes)
+
+- [**The Hope Funds for Cancer Research postdoctoral fellowship**](http://www.hope-funds.org/grants/eligibility-and-application/)
 
 ## Foundations
 
-| Title                                                      | Type                 | Agency           | Deadline                | URL                                    | Expires |
-|------------------------------------------------------------|----------------------|------------------|-------------------------|----------------------------------------|---------|
-| Research starter grants, Pre/postdoctoral fellowships      | Informatics Research | PHRMA Foundation | September 1, February 1 | http://www.phrmafoundation.org/awards/ | Yearly  |
-| Research, Founder's award, Early Career Investigator award | Cancer research      | METAVivor        | August                  | https://metavivor.infoready4.com       | Yearly  |
+- [**PHRMA Foundation, Informatics research starter grants, Pre/postdoctoral fellowships**](http://www.phrmafoundation.org/awards/)	**Deadline:** September 1, February 1
 
-- NIH Research Training and Career Development Programs, https://researchtraining.nih.gov/
-    - Mentored Research Scientist Development Award (Parent K01 - Independent Clinical Trial Not Allowed), https://grants.nih.gov/grants/guide/pa-files/PA-19-126.html
-
-- Early Career Funding Opportunities, >470 opportunities, https://research.jhu.edu/rdt/funding-opportunities/early-career/. [Source](https://twitter.com/deniswirtz/status/1160190978822512640?s=03)
+- [**METAVivor, Cancer research award, Founder's award, Early Career Investigator award**](https://metavivor.infoready4.com) **Deadline:** August
 
 ## VCU opportunities
 
