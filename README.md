@@ -4,11 +4,24 @@ Bioinformatics, biostatistics, computational research, cancer genomics-related f
 
 # Table of content
 
+* [JHU resources](#jhu-resources)
 * [NIH and NSF](#nih-and-nsf)
 * [Career development](#career-development)
 * [Foundations](#foundations)
 * [VCU opportunities](#vcu-opportunities)
 * [Misc](#misc)
+
+## JHU resources
+
+[Source](https://twitter.com/deniswirtz/status/1164548460348968962?s=03), by [Denis Wirtz](https://twitter.com/deniswirtz)
+
+Links to comprehensive lists of funding opportunities:
+
+- PhD students: https://research.jhu.edu/rdt/funding-opportunities/graduate/
+- Postdocs: https://research.jhu.edu/rdt/funding-opportunities/postdoctoral/
+- Minority + first gen: https://research.jhu.edu/rdt/funding-opportunities/underrepresented/
+- Early-career faculty: https://research.jhu.edu/rdt/funding-opportunities/early-career/
+
 
 ## NIH and NSF 
 
