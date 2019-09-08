@@ -55,6 +55,10 @@ Links to comprehensive lists of funding opportunities:
 
 ## Career development
 
+- [**A database of \~700 funding schemes and fellowships for postdocs and early career researchers**](https://ecrcentral.org/fundings), [source](https://twitter.com/khanaziz84/status/1093875757925974016)
+
+- [**Funding schemes and travel grant opportunities for postdocs**](https://asntech.github.io/postdoc-funding-schemes/), [GitHub](https://github.com/asntech/postdoc-funding-schemes)
+
 - [**2019 Postdoctoral Research Fellowships in Biology Solicitation (NSF 19-597)**](https://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf19597)
 
 - [**NIH Research Training and Career Development Programs**](https://researchtraining.nih.gov/)
@@ -62,9 +66,9 @@ Links to comprehensive lists of funding opportunities:
 
 - [**Early Career Funding Opportunities, >470 opportunities**](https://research.jhu.edu/rdt/funding-opportunities/early-career/). [Source](https://twitter.com/deniswirtz/status/1160190978822512640?s=03)
 
-- [**Funding schemes and travel grant opportunities for postdocs**](https://asntech.github.io/postdoc-funding-schemes/), [GitHub](https://github.com/asntech/postdoc-funding-schemes)
-
 - [**The Hope Funds for Cancer Research postdoctoral fellowship**](http://www.hope-funds.org/grants/eligibility-and-application/)
+
+- [**The Better Scientific Software (BSSw) Fellowship Program**](https://bssw.io/fellowship), [blog post](https://bssw.io/blog_posts/applications-open-for-2020-bssw-fellowship-program-q-a-webinar-on-sept-20-2019)
 
 ## Foundations
 
