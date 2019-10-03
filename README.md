@@ -92,4 +92,6 @@ Links to comprehensive lists of funding opportunities:
 
 ## Misc
 
+- Open grants list, https://github.com/weecology/ogrants, https://www.ogrants.org/
+
 - Interpreting NIH application number, https://www.niaid.nih.gov/grants-contracts/nih-terminology-know-nine-application-types
