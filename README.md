@@ -92,6 +92,8 @@ Links to comprehensive lists of funding opportunities:
 
 ## Misc
 
+- ReddyLab R01 Grant Template, [R01_Template.docx](http://reddylab.org/s/R01_Template.docx). [Source](http://reddylab.org/datasets), [Twitter](https://twitter.com/timreddy/status/1184312921528197120)
+
 - Open grants list, https://github.com/weecology/ogrants, https://www.ogrants.org/
 
 - Interpreting NIH application number, https://www.niaid.nih.gov/grants-contracts/nih-terminology-know-nine-application-types
