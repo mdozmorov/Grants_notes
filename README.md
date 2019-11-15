@@ -72,6 +72,8 @@ Links to comprehensive lists of funding opportunities:
 
 ## Foundations
 
+- [**CZI's Essential Open Source Software for Science**](https://chanzuckerberg.com/eoss/proposals/)
+
 - [**PHRMA Foundation, Informatics research starter grants, Pre/postdoctoral fellowships**](http://www.phrmafoundation.org/awards/)	**Deadline:** September 1, February 1
 
 - [**METAVivor, Cancer research award, Founder's award, Early Career Investigator award**](https://metavivor.infoready4.com) **Deadline:** August
