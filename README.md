@@ -70,6 +70,8 @@ Links to comprehensive lists of funding opportunities:
 
 - [**The Better Scientific Software (BSSw) Fellowship Program**](https://bssw.io/fellowship), [blog post](https://bssw.io/blog_posts/applications-open-for-2020-bssw-fellowship-program-q-a-webinar-on-sept-20-2019)
 
+- [**Graduate Women in Science, GWIS fellowship**](https://www.gwis.org/page/fellowship_apcheck20)
+
 ## Foundations
 
 - [**The Mark Foundation for Cancer Research**](https://themarkfoundation.org/) - 
