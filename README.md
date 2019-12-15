@@ -102,6 +102,8 @@ Links to comprehensive lists of funding opportunities:
 
 - Open grants list, https://github.com/weecology/ogrants, https://www.ogrants.org/
 
+- The Grant Application Writer's Workbook, http://www.grantcentral.com/workbooks/national-institutes-of-health/
+
 - NSF Conflict of Interests generator, [GitHub](https://github.com/ejfertig/NSFBiosketch), [Shiny app](https://dobbs-onc-jhmi.shinyapps.io/ConflictsOfShinyApp/), [Tweet](https://twitter.com/FertigLab/status/920024060280614912?s=20)
 
 - ReddyLab R01 Grant Template, [R01_Template.docx](http://reddylab.org/s/R01_Template.docx). [Source](http://reddylab.org/datasets), [Twitter](https://twitter.com/timreddy/status/1184312921528197120)
