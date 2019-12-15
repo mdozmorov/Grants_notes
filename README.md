@@ -72,6 +72,10 @@ Links to comprehensive lists of funding opportunities:
 
 - [**Graduate Women in Science, GWIS fellowship**](https://www.gwis.org/page/fellowship_apcheck20)
 
+- [A career in research: Tips for running your own research group](https://wellcome.ac.uk/sites/default/files/research-careers-tips-running-research-group-2018-05-17.pdf)
+
+
+
 ## Foundations
 
 - [**The Mark Foundation for Cancer Research**](https://themarkfoundation.org/) - 
