@@ -7,6 +7,7 @@ Bioinformatics, biostatistics, computational research, cancer genomics-related f
 * [JHU resources](#jhu-resources)
 * [NIH and NSF](#nih-and-nsf)
 * [Career development](#career-development)
+* [Mentoring Resources](#mentoring-resources)
 * [Foundations](#foundations)
 * [VCU opportunities](#vcu-opportunities)
 * [Misc](#misc)
@@ -71,6 +72,10 @@ Links to comprehensive lists of funding opportunities:
 - [**The Better Scientific Software (BSSw) Fellowship Program**](https://bssw.io/fellowship), [blog post](https://bssw.io/blog_posts/applications-open-for-2020-bssw-fellowship-program-q-a-webinar-on-sept-20-2019)
 
 - [**Graduate Women in Science, GWIS fellowship**](https://www.gwis.org/page/fellowship_apcheck20)
+
+## Mentoring Resources
+
+From https://immunox.ucsf.edu/future-immunology
 
 - [A career in research: Tips for running your own research group](https://wellcome.ac.uk/sites/default/files/research-careers-tips-running-research-group-2018-05-17.pdf)
 
