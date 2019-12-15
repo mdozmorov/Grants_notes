@@ -74,6 +74,7 @@ Links to comprehensive lists of funding opportunities:
 
 - [A career in research: Tips for running your own research group](https://wellcome.ac.uk/sites/default/files/research-careers-tips-running-research-group-2018-05-17.pdf)
 
+- [Making the Right Moves: A Practical Guide to Scientifıc Management for Postdocs and New Faculty](https://www.hhmi.org/sites/default/files/Educational%20Materials/Lab%20Management/Making%20the%20Right%20Moves/moves2.pdf)
 
 
 ## Foundations
