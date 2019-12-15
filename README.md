@@ -83,6 +83,8 @@ From https://immunox.ucsf.edu/future-immunology
 
 - [Worklife Organization Psychology Podcasts](https://www.ted.com/series/worklife_with_adam_grant)
 
+- [A 2019 Twitter stream of advice about starting your own lab](https://twitter.com/caitanne/status/1165648578188107778?s=11)
+
 ## Foundations
 
 - [**The Mark Foundation for Cancer Research**](https://themarkfoundation.org/) - 
