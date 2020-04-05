@@ -87,6 +87,8 @@ From https://immunox.ucsf.edu/future-immunology
 
 ## Foundations
 
+- [**Fund for Innovation in Cancer Informatics**](http://www.the-ici-fund.org/) - grants to support and test novel bioinformatics applications in cancer. For a team of a bioinformatician and a cancer biologist, one of which should be junior faculty. 2 years. **Deadline:** March 12, September 11
+
 - [**The Mark Foundation for Cancer Research**](https://themarkfoundation.org/) - 
 
 - [**CZI's Essential Open Source Software for Science**](https://chanzuckerberg.com/eoss/proposals/)
