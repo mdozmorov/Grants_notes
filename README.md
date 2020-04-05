@@ -124,3 +124,7 @@ From https://immunox.ucsf.edu/future-immunology
 - ReddyLab R01 Grant Template, [R01_Template.docx](http://reddylab.org/s/R01_Template.docx). [Source](http://reddylab.org/datasets), [Twitter](https://twitter.com/timreddy/status/1184312921528197120)
 
 - Interpreting NIH application number, https://www.niaid.nih.gov/grants-contracts/nih-terminology-know-nine-application-types
+
+- Siepel, Adam. “Challenges in Funding and Developing Genomic Software: Roots and Remedies.” Genome Biology 20, no. 1 (December 2019): 147. https://doi.org/10.1186/s13059-019-1763-7. - Challenges in funding for genomics software development, steps to address. [Table 1](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1763-7/tables/1) - highly cited genomics software, [Table 2](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1763-7/tables/2) - grant opportunities for genomic software development
+
+
