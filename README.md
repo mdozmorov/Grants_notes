@@ -1,16 +1,22 @@
 # Notes on potential funding opportunities
 
-Bioinformatics, biostatistics, computational research, cancer genomics-related funding opportunities
+Bioinformatics, biostatistics, computational research, cancer genomics-related funding opportunities. Please, [contribute and get in touch](CONTRIBUTING.md)! See [MDmisc notes](https://github.com/mdozmorov/MDmisc_notes) for other programming and genomics-related notes.
 
 # Table of content
 
-* [JHU resources](#jhu-resources)
-* [NIH and NSF](#nih-and-nsf)
-* [Career development](#career-development)
-* [Mentoring Resources](#mentoring-resources)
-* [Foundations](#foundations)
-* [VCU opportunities](#vcu-opportunities)
-* [Misc](#misc)
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+
+- [JHU resources](#jhu-resources)
+- [NIH and NSF](#nih-and-nsf)
+- [Career development](#career-development)
+- [Mentoring Resources](#mentoring-resources)
+- [Foundations](#foundations)
+- [VCU opportunities](#vcu-opportunities)
+- [Misc](#misc)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## JHU resources
 
