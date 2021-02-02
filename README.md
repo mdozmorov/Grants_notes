@@ -64,6 +64,8 @@ Links to comprehensive lists of funding opportunities:
 
 ## Career development
 
+- [R25 PAR-21-075](https://grants.nih.gov/grants/guide/pa-files/PAR-21-075.html) - NIH Research Experience in Genomic Research for Data Scientists (R25)
+
 - [CSGrad4US](https://www.nsf.gov/cise/CSGrad4US/) - NSF Computer and Information Science and Engineering Graduate Fellowships
 
 - [**A database of \~700 funding schemes and fellowships for postdocs and early career researchers**](https://ecrcentral.org/fundings), [source](https://twitter.com/khanaziz84/status/1093875757925974016)
