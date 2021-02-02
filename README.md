@@ -64,6 +64,8 @@ Links to comprehensive lists of funding opportunities:
 
 ## Career development
 
+- [CSGrad4US](https://www.nsf.gov/cise/CSGrad4US/) - NSF Computer and Information Science and Engineering Graduate Fellowships
+
 - [**A database of \~700 funding schemes and fellowships for postdocs and early career researchers**](https://ecrcentral.org/fundings), [source](https://twitter.com/khanaziz84/status/1093875757925974016)
 
 - [**Funding schemes and travel grant opportunities for postdocs**](https://asntech.github.io/postdoc-funding-schemes/), [GitHub](https://github.com/asntech/postdoc-funding-schemes)
