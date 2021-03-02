@@ -64,6 +64,8 @@ Links to comprehensive lists of funding opportunities:
 
 ## Career development
 
+- [Data and Technology Advancement (DATA) National Service Scholar Program: Data Scientists Advancing Biomedical Research](https://datascience.nih.gov/data-scholars-2021) - NIH DATA Scholar 2021 program
+
 - [R25 PAR-21-075](https://grants.nih.gov/grants/guide/pa-files/PAR-21-075.html) - NIH Research Experience in Genomic Research for Data Scientists (R25)
 
 - [CSGrad4US](https://www.nsf.gov/cise/CSGrad4US/) - NSF Computer and Information Science and Engineering Graduate Fellowships
