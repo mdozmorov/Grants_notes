@@ -105,7 +105,7 @@ From https://immunox.ucsf.edu/future-immunology
 
 - [**The Mark Foundation for Cancer Research**](https://themarkfoundation.org/) - 
 
-- [**CZI's Essential Open Source Software for Science**](https://chanzuckerberg.com/eoss/proposals/)
+- [**CZI's Essential Open Source Software for Science**](https://chanzuckerberg.com/eoss/proposals/). [Cycle 4 funding, 2021](https://chanzuckerberg.com/rfa/essential-open-source-software-for-science/)
 
 - [**PHRMA Foundation, Informatics research starter grants, Pre/postdoctoral fellowships**](http://www.phrmafoundation.org/awards/)	**Deadline:** September 1, February 1
 
