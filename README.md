@@ -127,6 +127,8 @@ From https://immunox.ucsf.edu/future-immunology
 
 ## Misc
 
+- [Top 10 tips for getting a bioinformatics R01](http://www.epistasisblog.org/2010/11/top-10-tips-for-getting-r01-funded-by.html) by Jason Moore
+
 - [All About Grants Podcasts](https://grants.nih.gov/news/virtual-learning/podcasts.htm)
 
 - Successful Job Applications and Grants, https://github.com/RILAB/statements
