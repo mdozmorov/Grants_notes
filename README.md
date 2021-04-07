@@ -113,6 +113,8 @@ From https://immunox.ucsf.edu/future-immunology
 
 ## VCU opportunities
 
+- [C. Kenneth and Dianne Wright Center for Clinical and Translational Research Endowment Fund Grants](https://cctr.vcu.edu/support/funding/endowment-fund-grants/) - Individual grants, February 1, August 1, November 1 deadlines; Multi-School grants, May 1 deadline.
+
 - **Massey Multi-investigator Award Program** - \~January. https://www.massey.vcu.edu/research/funding/multi-investigator-award-program/
 
 - **Massey Cancer Center Pilot Project Program** - biannual call for applications. \~December and \~June. https://www.massey.vcu.edu/research/funding/pilot-project-program/
