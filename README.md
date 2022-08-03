@@ -22,6 +22,8 @@ Bioinformatics, biostatistics, computational research, cancer genomics-related f
 
 ## Misc
 
+- [GrantExplorer.org](https://www.grantexplorer.org/) - a tool for exploring federal grant data. [Tweet](https://twitter.com/jevinwest/status/1548011648627052545?s=20&t=6nNU3TjuIK3TmtjXroyZTQ)
+
 - [Grant Writing 101](https://youtu.be/IUIAYVgGfZA) webinar from NIH OITE, by Dr. Sharon Milgram, 3h.
 
 - [Top 10 tips for getting a bioinformatics R01](http://www.epistasisblog.org/2010/11/top-10-tips-for-getting-r01-funded-by.html) by Jason Moore
