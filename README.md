@@ -103,6 +103,8 @@ Links to comprehensive lists of funding opportunities:
 
 - [Selecting a Data Repository](https://sharing.nih.gov/data-management-and-sharing-policy/sharing-scientific-data/selecting-a-data-repository)
 
+- [Understanding the New NIH Data Management and Sharing (DMS) Policy](https://youtu.be/CgUpwkngj3g) - webinar recording, 1h 27m
+
 
 ## Career development
 
