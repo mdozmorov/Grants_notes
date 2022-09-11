@@ -13,6 +13,7 @@ Bioinformatics, biostatistics, computational research, cancer genomics-related f
 - [Misc](#misc)
 - [JHU resources](#jhu-resources)
 - [NIH and NSF](#nih-and-nsf)
+  - [NIH Data Management and Sharing (DMS) policy](#nih-data-management-and-sharing-dms-policy)
 - [Career development](#career-development)
 - [Mentoring Resources](#mentoring-resources)
 - [Foundations](#foundations)
@@ -85,6 +86,23 @@ Links to comprehensive lists of funding opportunities:
 - [**Smart and Connected Health(SCH)**](https://www.nsf.gov/pubs/2018/nsf18541/nsf18541.htm), **NSF & NIH**, **Deadline:** December 11	
 
 - [**Research Projects in Cancer Systems Biology (U01 Clinical Trial Optional)**](https://grants.nih.gov/grants/guide/pa-files/par-19-287.html), **NCI**, **Deadline:** July, Nov
+
+### NIH Data Management and Sharing (DMS) policy
+
+- [Scientific Data Sharing landing page](https://sharing.nih.gov/)
+
+- [NOT-OD-21-014: Supplemental Information to the NIH Policy for Data Management and Sharing: Elements of an NIH Data Management and Sharing Plan](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-21-014.html)
+
+- [FAQ 2023 Data Management & Sharing Policy](https://sharing.nih.gov/faqs#/data-management-and-sharing-policy.htm)
+
+- [Writing a Data Management & Sharing Plan](https://sharing.nih.gov/data-management-and-sharing-policy/planning-and-budgeting-DMS/writing-a-data-management-and-sharing-plan#after)
+
+- [Budgeting for Data Management & Sharing](https://sharing.nih.gov/data-management-and-sharing-policy/planning-and-budgeting-DMS/budgeting-for-data-management-sharing#after)
+
+- [Repositories for Sharing Scientific Data](https://sharing.nih.gov/data-management-and-sharing-policy/sharing-scientific-data/repositories-for-sharing-scientific-data)
+
+- [Selecting a Data Repository](https://sharing.nih.gov/data-management-and-sharing-policy/sharing-scientific-data/selecting-a-data-repository)
+
 
 ## Career development
 
